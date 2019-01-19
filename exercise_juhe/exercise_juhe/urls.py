@@ -18,6 +18,6 @@ from django.urls import path
 from exam import views
 
 urlpatterns = [
-    path('', views.index4, name='index'),
+    path('', views.index15, name='index'),
 
 ]

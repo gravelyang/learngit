@@ -18,7 +18,7 @@
     <session id="779649587">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -29,14 +29,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Django Console" value="185" />
-          <entry key="py" value="5266" />
+          <entry key="py" value="7732" />
           <entry key="py@exercise_juhe" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CommandLine" value="87" />
-          <entry key="Python" value="5451" />
+          <entry key="Python" value="7917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/exercise_juhe/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#637#665#0" expanded="true" />
               </folding>
@@ -117,14 +117,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exam/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+            <state relative-caret-position="322">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1547803209215" expanded="true" signature="161:162" ph="..." />
-                <marker date="1547803209215" expanded="true" signature="462:467" ph="..." />
-                <marker date="1547803209215" expanded="true" signature="794:799" ph="..." />
-                <marker date="1547803209215" expanded="true" signature="985:1063" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="177:178" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="498:503" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="830:835" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="1021:1056" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="1281:1286" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="1722:1727" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="1722:1892" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="1943:2146" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="2197:2198" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="2431:2436" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="2682:2687" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="2961:2966" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="3202:3207" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="3451:3456" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="3736:3741" ph="..." />
+                <marker date="1547862729689" expanded="true" signature="4032:4037" ph="..." />
               </folding>
             </state>
           </provider>
@@ -139,8 +151,8 @@
         <option value="$PROJECT_DIR$/Book/views.py" />
         <option value="$PROJECT_DIR$/exercise_juhe/settings.py" />
         <option value="$PROJECT_DIR$/exam/models.py" />
-        <option value="$PROJECT_DIR$/exercise_juhe/urls.py" />
         <option value="$PROJECT_DIR$/exam/views.py" />
+        <option value="$PROJECT_DIR$/exercise_juhe/urls.py" />
       </list>
     </option>
   </component>
@@ -151,8 +163,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="875" />
-    <option name="y" value="52" />
+    <option name="x" value="643" />
+    <option name="y" value="56" />
     <option name="width" value="1702" />
     <option name="height" value="1268" />
   </component>
@@ -286,7 +298,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="42" width="1361" height="1014" extended-state="0" />
+    <frame x="515" y="45" width="1361" height="1014" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.161934" />
@@ -294,7 +306,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33182332" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33182332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,7 +397,7 @@
     <entry file="file://$PROJECT_DIR$/exercise_juhe/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#637#665#0" expanded="true" />
           </folding>
@@ -394,14 +406,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exam/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+        <state relative-caret-position="322">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1547803209215" expanded="true" signature="161:162" ph="..." />
-            <marker date="1547803209215" expanded="true" signature="462:467" ph="..." />
-            <marker date="1547803209215" expanded="true" signature="794:799" ph="..." />
-            <marker date="1547803209215" expanded="true" signature="985:1063" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="177:178" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="498:503" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="830:835" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="1021:1056" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="1281:1286" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="1722:1727" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="1722:1892" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="1943:2146" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="2197:2198" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="2431:2436" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="2682:2687" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="2961:2966" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="3202:3207" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="3451:3456" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="3736:3741" ph="..." />
+            <marker date="1547862729689" expanded="true" signature="4032:4037" ph="..." />
           </folding>
         </state>
       </provider>
